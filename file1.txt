@@ -1,1 +1,6 @@
 This is git repo file
+
+adding the second line
+
+
+why the line is not added
